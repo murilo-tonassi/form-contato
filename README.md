@@ -14,10 +14,15 @@
 - Este projeto é um formulário de contato básico em HTML, criado como parte de um exercício de prática. Ele permite que os usuários preencham informações e enviem mensagens através do formulário. É uma ótima maneira de aprender os conceitos básicos de criação de formulários em HTML.
 
 ## Introdução ⚙️
+<<<<<<< HEAD
 Preenchimento de dados em um formulário de contato    
   
   
 <img src="imgs/imagem_form-contato.png">   
+=======
+- Preenchimento de dados em um formulário de contato
+![Formulário](image.png)
+>>>>>>> 4bcbf90a4cfd2b7996c88d2b274f95dbad5df4d0
 
    
 
